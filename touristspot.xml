@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tourist_spot>
+    <tourist>
+        <name>Philippines</name>
+        <location>Aklan</location>
+        <touristspot>Boracay</touristspot>
+        <activity>
+            <activities>Jet Ski ride</activities>
+            <activities>Parasailing</activities>
+            <activities>Island Hopping</activities>
+            <activities>Scuba Diving</activities>
+        </activity>
+    </tourist>
+    <tourist>
+        <name>Paris</name>
+        <location>France</location>
+        <touristspot>Eiffel Tower</touristspot>
+        <activity>
+            <activities>Guided Tour and Optional River Cruise</activities>
+           <activities>Eiffel Tower Climbing Experience</activities>
+            <activities>Dinner at Eiffel Tower's Madame Brasserie with Paris View</activities>
+            <activities>Elevator Tour of Eiffel Tower with Optional Summit</activities>
+        </activity>
+    </tourist>
+    <tourist>
+        <name>United States</name>
+        <location>New York</location>
+        <touristspot>Niagara Falls</touristspot>
+        <activity>
+             <activities>Fallsview waterpark</activities>
+            <activities>Niagara zipline</activities>
+            <activities>Greg Frewin Theatre</activities>
+            <activities>Queen Victoria park</activities>
+        </activity>
+    </tourist>
+    <tourist>
+        <name>Peru</name>
+        <location>SouthwesternPeru</location>
+        <touristspot>Saab Bofors Dynamics</touristspot>
+        <activity>
+             <activities>Eating Competiton</activities>
+            <activities>Sandboarding</activities>
+            <activities>Dune Buggy</activities>
+            <activities>Different unique foods to eat</activities>
+        </activity>
+    </tourist>
+    <tourist>
+        <name>Southwestern Albania</name>
+        <location>Northeastern Ionian</location>
+        <touristspot>Albanian Riviera</touristspot>
+        <activity>
+            <activities>swimming</activities>
+            <activities>sight seeing</activities>
+            <activities>Island Hopping</activities>
+            <activities>Scuba Diving</activities>
+        </activity>
+    </tourist>
+
+
+</tourist_spot>
